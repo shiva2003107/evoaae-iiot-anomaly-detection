@@ -1,5 +1,5 @@
 # Results
 
-This folder contains the experimental results and performance outputs generated during the EvoAAE-based IIoT anomaly detection project.
+This folder is reserved for selected numerical results and evaluation outputs from the EvoAAE-based IIoT anomaly detection project.
 
-The results include model evaluation metrics and selected performance visualizations used to analyze the effectiveness of the proposed approach.
+The main evaluation screenshots are available in the `screenshots/` directory, while detailed project results are documented in the project report.
