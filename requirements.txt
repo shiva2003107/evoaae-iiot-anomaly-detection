@@ -2,7 +2,7 @@ numpy
 pandas
 scikit-learn
 matplotlib
-cryptography
-pycryptodome
-pygost
-web3
+scipy
+joblib
+torch
+tqdm
